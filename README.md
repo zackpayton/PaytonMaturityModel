@@ -1,4 +1,4 @@
-# PaytonMaturityModel
+# Payton Maturity Model (PMM)
 A basic (read: not one size fits all) consideration in Incident Response Readiness (maybe?)
 
 
