@@ -38,12 +38,12 @@ What if we took the crown jewels of an organization and measured each environmen
   * Consider easy anomalies to detect such as weird admin login behavior, large network connections in/out of environment, or strange process behavior. 
   * When applicable, try to document network communication characteristics and consider building detections for anomalies (i.e. system reaching out to another system it's never talked to before).
   * Start to develop alerting for when critical components fail to send logs.
+  * Start considering how best to employ deception techniques in the environment.
 
 ### 5. Level 4
   * Meet with team that administers component on a more regular basis for threat modeling and security exercises.
   * Consider using an attack framework to automate attack unit tests to ensure your detections are working against real attacks.
   * Red team environment on regular basis.
-  * Start considering how best to employ deception techniques in the environment.
   * Level up your attack unit testing to cover a wide range the Att&ck Matrix.
 
 ### 6. Level 5
