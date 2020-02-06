@@ -12,7 +12,7 @@ What if we took the crown jewels of an organization and measured each environmen
 
 ### 2. Level 1
   * Document owners/security contacts of all operational teams involved.
-  * Identify and document what log sources are available to your equivalant of an IR team right now.
+  * Identify and document what log sources are available to your equivalent of an IR team right now.
   * Have a quick documented conversation with the teams about what IR looks like in their infrastructure taking care to note what special considerations apply. Let them know you're working on your security hygiene and how to contact you and if you plan to go farther in maturity that perhaps you're going to be working with them more to get additional security visibility and capabilities.
   * Identify and document what response capabilities are available? Don't know AWS or docker forensics? Don't find out during a real incident.
   * If applicable, best effort host and software inventory documentation of the environment.
